@@ -33,7 +33,7 @@ var board = new five.Board();
 
   process.on('SIGINT', function () { //on ctrl+c
     led.off();
-    console.log("Turning it off");
+    console.log("Turning off big bepis");
     process.exit(); //exit completely
   });
 });
